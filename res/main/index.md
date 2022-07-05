@@ -25,5 +25,5 @@ Here you can find some FaQ's and the download links.
 
 ## Links
 
-[v1.3](https://www.mediafire.com/file/m13m1rnla84xvxo/Super_Mario_Starshine_Demo_v1.3.rar/file)
-[v1.4](https://www.mediafire.com/file/8ynmhr6v5y0owzb/Super_Mario_Starshine_Demo_v1.4.rar/file)
+* [v1.3](https://www.mediafire.com/file/m13m1rnla84xvxo/Super_Mario_Starshine_Demo_v1.3.rar/file)
+* [v1.4](https://www.mediafire.com/file/8ynmhr6v5y0owzb/Super_Mario_Starshine_Demo_v1.4.rar/file)
