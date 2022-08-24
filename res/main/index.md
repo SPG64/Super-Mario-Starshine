@@ -1,6 +1,6 @@
 # Super Mario Starshine
 
-Welcome to Super Mario Starhine's offical website!
+Welcome to Super Mario Starshine's offical website!
 
 Here you can find some FaQ's and the download links.
 
